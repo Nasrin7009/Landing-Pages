@@ -1,0 +1,81 @@
+/* Global Css */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+/* Header- Part */
+#header{
+    width: 100%;
+    float: left;
+    padding: 15px; 0px
+}
+.logo-part{
+    width:25%;
+    float: left;
+}
+.logo-part img{
+    width: 55%;
+}
+.menu-part{
+    width: 50%;
+    float: left;
+}
+.menu-part nav{
+    margin: 18px 50px;
+}
+.menu-part nav ul{
+
+}
+.menu-part nav ul li{
+    display: inline-block;
+    margin: 0px 25px;
+
+}
+.menu-part nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700px;
+    font-size: 17px;
+}
+.search-part{
+    width: 25%;
+    float: left;
+}
+.search-part input{
+    padding: 8px;
+    margin: 12px;
+    border-radius: 20px;
+    border: 2px solid black;
+
+}
+.search-part input::placeholder{
+
+}
+<!--Hero Section-->
+#hero{
+    width: 100%;
+    float: left;
+    background: url(../dit346/img/bg.png);
+}
+
+
+#hero h3{
+
+}
+#hero h1{
+
+}
+#hero a button{
+
+}
+.image-hero{
+
+}
+.image-hero img{
+
+}
